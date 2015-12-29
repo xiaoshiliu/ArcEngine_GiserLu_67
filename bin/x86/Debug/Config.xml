@@ -1,0 +1,25 @@
+<dotnetbarlayout version="6" zorder="4,6,2,1">
+  <docksite size="0" dockingside="Top" />
+  <docksite size="0" dockingside="Bottom" />
+  <docksite size="195" dockingside="Left">
+    <dockcontainer orientation="0" w="0" h="0">
+      <barcontainer w="192" h="469">
+        <bar name="bar1" dockline="0" layout="2" dockoffset="0" state="2" dockside="1" visible="true">
+          <items>
+            <item name="dockContainerItem2" origBar="" origPos="-1" pos="0" />
+          </items>
+        </bar>
+      </barcontainer>
+    </dockcontainer>
+  </docksite>
+  <docksite size="0" dockingside="Right" />
+  <bars>
+    <bar name="Main_menu" dockline="0" layout="0" dockoffset="0" state="2" dockside="3" visible="true" />
+    <bar name="toolbar_Standard" dockline="1" layout="0" dockoffset="0" state="2" dockside="3" visible="true" />
+    <bar name="toolbar_Tools" dockline="1" layout="0" dockoffset="339" state="2" dockside="3" visible="true" />
+    <bar name="toolbar_drawGraphicsElement" dockline="1" layout="0" dockoffset="512" state="2" dockside="3" visible="true" />
+    <bar name="toolbar_Editor" dockline="2" layout="0" dockoffset="0" state="2" dockside="3" visible="true" />
+    <bar name="toolBar_LayOutControl" dockline="3" layout="0" dockoffset="0" state="2" dockside="3" visible="false" />
+    <bar name="toolbar_LayOutStandard" dockline="3" layout="0" dockoffset="250" state="2" dockside="3" visible="false" />
+  </bars>
+</dotnetbarlayout>
